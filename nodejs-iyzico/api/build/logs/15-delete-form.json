@@ -1,0 +1,9 @@
+{
+    "status": "failure",
+    "errorCode": "5117",
+    "errorMessage": "Üye işyerinin bakiyesi bu iadeyi yapmak için yetersiz",
+    "locale": "tr",
+    "systemTime": 1710887431326,
+    "conversationId": "T6kNnIu9dzhhlgPyXGLw-",
+    "paymentId": "21920952"
+}

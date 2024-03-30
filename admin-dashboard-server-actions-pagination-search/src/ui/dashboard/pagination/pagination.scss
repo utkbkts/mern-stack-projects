@@ -1,0 +1,17 @@
+.containerPagination {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+
+  .button {
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid darkgray;
+
+    &:disabled {
+      cursor: not-allowed;
+      background: darkgray;
+      opacity: 0.6;
+    }
+  }
+}

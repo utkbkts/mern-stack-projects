@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "locale": "tr",
+    "systemTime": 1710927332289,
+    "conversationId": "7J3df4-NLmKZsTpxknMv9",
+    "paymentId": "21922922",
+    "paymentTransactionId": "23858888",
+    "price": 1,
+    "currency": "TRY",
+    "authCode": "696398",
+    "hostReference": "mock00001iyzihostrfn",
+    "retryable": false
+}

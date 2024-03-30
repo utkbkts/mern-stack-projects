@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "locale": "tr",
+    "systemTime": 1710884126729,
+    "conversationId": "TĞPmÇLİb8k0NWp2Ğd5Ük",
+    "cardUserKey": "utFVUtM30Hqy9dgK9hsTrqfo4eY=",
+    "cardDetails": [
+        {
+            "cardToken": "4pyIyTg7fVlN5dudfSDHIx7mw7k=",
+            "cardAlias": "kredi kartim ödemeden sonra",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        },
+        {
+            "cardToken": "a2z2hpmumY26h1Y8ApBCXsaTtjA=",
+            "cardAlias": "card alias",
+            "binNumber": "55287900",
+            "lastFourDigits": "0008",
+            "cardType": "CREDIT_CARD",
+            "cardAssociation": "MASTER_CARD",
+            "cardFamily": "Paraf",
+            "cardBankCode": 12,
+            "cardBankName": "Halk Bankası"
+        }
+    ]
+}

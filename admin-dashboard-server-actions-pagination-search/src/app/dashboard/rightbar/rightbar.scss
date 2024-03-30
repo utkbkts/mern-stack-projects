@@ -1,0 +1,63 @@
+.RightBarcontainer {
+  position: fixed;
+
+  .item {
+    position: relative;
+    background: linear-gradient(to top, #182237, #253352);
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+    .bgContainer {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 50%;
+      height: 50%;
+
+      .bg {
+        object-fit: cover;
+        opacity: 0.2;
+      }
+    }
+
+    .texts {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+
+      .notification {
+        font-weight: bold;
+      }
+
+      .title {
+        font-size: 1.2em;
+        font-weight: 500;
+        color: var(--softColor);
+      }
+
+      .subtitle {
+        font-size: 0.9em;
+        color: #888;
+        margin-bottom: 5px;
+      }
+
+      .desc {
+        font-size: 0.9em;
+        color: #555;
+        margin-bottom: 10px;
+      }
+
+      .button {
+        background-color: #5d57c9; // örnek renk
+        color: white;
+        border: none;
+        padding: 10px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}

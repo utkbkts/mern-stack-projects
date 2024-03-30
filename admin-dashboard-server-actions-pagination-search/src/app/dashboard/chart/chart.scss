@@ -1,0 +1,12 @@
+.chartContainer {
+  height: 450px;
+  background-color: var(--bgSoft);
+  border-radius: 10px;
+  padding: 20px;
+
+  .title {
+    font-weight: 700;
+    color: var(--textSoft);
+    margin-bottom: 20px;
+  }
+}
